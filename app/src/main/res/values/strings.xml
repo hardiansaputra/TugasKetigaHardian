@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasKetigaHardian</string>
+
+    <string name="hello_world">Hai hardian!!!</string>
+    <string name="apakabar_dunia">apa kabar hardian!!!</string>
+    <string name="tombol_terjemahanInd">Terjemahkan</string>
+    <string name="tombol_terjemahanEng">Translate</string>
+    <string name="action_settings">Settings</string>
+</resources>
